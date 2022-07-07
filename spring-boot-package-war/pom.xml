@@ -41,7 +41,7 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>javaax.xml.bing</groupId>
+			<groupId>javax.xml.bind</groupId>
 			<artifactId>jaxb-api</artifactId>
 			<version>2.3.1</version>
 		</dependency>
